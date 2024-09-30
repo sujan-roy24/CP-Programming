@@ -1,3 +1,4 @@
+/*DFS algorithm is used to detect cycle in Directed Graph*/
 #include <bits/stdc++.h>
 
 int main()
